@@ -137,23 +137,23 @@ git add file-name
 4. Commit the changes
 sh
 git commit -m "Added files"
-
+![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/7.png)
 
 5. Push the files to github
 sh
 git push -u origin main
 
-![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/7.png)
+![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/8.png)
 
 #### Check that the image has been build or not?
 1. Go to the Repository--> Actions Tab. You will see that 1 workflow will be running. Wait unitl it build successfully.
 
-![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/8.png)
-
 ![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/9.png)
+
+![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/10.png)
 
 2. Now check you Docker Hub account. The images will be created in your account.
 
-![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/10.png)
+![Example Image](https://github.com/smeetw2610/FASTAPI/blob/main/11.png)
 
 ---
